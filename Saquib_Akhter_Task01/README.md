@@ -60,5 +60,3 @@ This project demonstrates how exploratory data analysis can turn retail transact
 **Program:** Oasis Infobyte Internship Program (OIBSIP)  
 **Task:** Task 1 — Exploratory Data Analysis on Retail Sales Data
 
-## Dataset and Attribution
-Add the original dataset source and any required attribution here. Confirm that the dataset's license permits redistribution before committing the raw data.
