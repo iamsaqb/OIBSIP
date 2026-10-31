@@ -1,0 +1,10 @@
+Metric,Before Cleaning,After Cleaning
+Total Rows,12575,12575
+Total Columns,11,11
+Duplicate Rows,0,0
+Total Missing Values,7229,4199
+Missing Item Values,1213,0
+Missing Price Per Unit,609,0
+Missing Quantity,604,0
+Missing Total Spent,604,0
+Missing Discount Applied,4199,4199

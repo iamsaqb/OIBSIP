@@ -1,0 +1,12 @@
+,Data Type,Missing Values,Missing Percentage,Unique Values
+Transaction ID,str,0,0.0,12575
+Customer ID,str,0,0.0,25
+Category,str,0,0.0,8
+Item,str,1213,9.65,200
+Price Per Unit,float64,609,4.84,25
+Quantity,float64,604,4.8,10
+Total Spent,float64,604,4.8,227
+Payment Method,str,0,0.0,3
+Location,str,0,0.0,2
+Transaction Date,str,0,0.0,1114
+Discount Applied,object,4199,33.39,2
